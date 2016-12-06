@@ -27,8 +27,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-03-30 19:27:30</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>a0b502e4db26da00303e3b1cbf96192e</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>Calculate Total Mileage</sys_name>

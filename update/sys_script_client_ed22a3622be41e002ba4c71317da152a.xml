@@ -59,8 +59,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2015-12-28 21:15:14</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>ed22a3622be41e002ba4c71317da152a</sys_id>
         <sys_mod_count>32</sys_mod_count>
         <sys_name>Prepopulate fields</sys_name>

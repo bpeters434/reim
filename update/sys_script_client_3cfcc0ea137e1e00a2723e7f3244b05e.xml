@@ -27,8 +27,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-18 01:55:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>3cfcc0ea137e1e00a2723e7f3244b05e</sys_id>
         <sys_mod_count>8</sys_mod_count>
         <sys_name>Calculate Reimbursed Meals Cost</sys_name>

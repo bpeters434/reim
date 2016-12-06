@@ -17,14 +17,10 @@
         <force_delivery>false</force_delivery>
         <from/>
         <generation_type>engine</generation_type>
-        <group/>
-        <group_field/>
         <importance/>
         <include_attachments>false</include_attachments>
         <item>event.parm1</item>
         <item_table/>
-        <list/>
-        <list_field/>
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>New ${type} Request Number&nbsp;${number} Has been Approved and is ready for review.</p>
@@ -48,8 +44,9 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-13 21:22:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>57b7857a13d71640a2723e7f3244b02b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>AP User  </sys_name>
@@ -64,8 +61,6 @@
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
-        <user/>
-        <user_field/>
         <weight>0</weight>
     </sysevent_email_action>
 </record_update>

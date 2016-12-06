@@ -69,8 +69,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-04-15 20:30:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>b15f647d13f21e00a2723e7f3244b0da</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>Add Estimated Expences Mileage</sys_name>

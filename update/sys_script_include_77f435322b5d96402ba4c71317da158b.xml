@@ -49,7 +49,7 @@ getDistance2.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>gibsjt</sys_created_by>
         <sys_created_on>2016-02-04 14:36:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>77f435322b5d96402ba4c71317da158b</sys_id>
         <sys_mod_count>20</sys_mod_count>
         <sys_name>getDistance2</sys_name>

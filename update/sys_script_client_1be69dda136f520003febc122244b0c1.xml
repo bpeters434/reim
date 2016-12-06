@@ -29,8 +29,9 @@ var est = g_form.getValue('estimated_airfare_cost');
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-24 19:31:52</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>1be69dda136f520003febc122244b0c1</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Field message </sys_name>

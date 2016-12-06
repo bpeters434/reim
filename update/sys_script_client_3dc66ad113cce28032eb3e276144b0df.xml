@@ -31,8 +31,9 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-06-15 19:16:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>3dc66ad113cce28032eb3e276144b0df</sys_id>
         <sys_mod_count>15</sys_mod_count>
         <sys_name>Validate Return Date</sys_name>

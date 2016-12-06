@@ -121,18 +121,19 @@
             <sys_created_on>2016-05-13 20:18:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>a66970f213d71640a2723e7f3244b096</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_name>sys_ui_policy</sys_name>
-            <sys_package/>
+            <sys_package display_value="Reimbursement Center" source="x_inhe_reim">bd7e76d72b945a002ba4c71317da155b</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Reimbursement Center">bd7e76d72b945a002ba4c71317da155b</sys_scope>
             <sys_update_name>sys_ui_list_sys_ui_policy_default</sys_update_name>
             <sys_updated_by>GibsJT</sys_updated_by>
             <sys_updated_on>2016-07-05 20:12:18</sys_updated_on>
-            <sys_user display_value="Jason Gibson (GibsJT)">2004e3cc89bfb50414593454d2fa8171</sys_user>
-            <view display_value="Default" name="default">472a4a8549572400b18b2310bb985026</view>
+            <sys_user display_value="">2004e3cc89bfb50414593454d2fa8171</sys_user>
+            <view display_value="Default" name="default">30174876cb811200aa871831794c9cc4</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

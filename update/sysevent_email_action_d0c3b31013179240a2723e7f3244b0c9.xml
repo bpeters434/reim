@@ -17,14 +17,10 @@
         <force_delivery>false</force_delivery>
         <from/>
         <generation_type>event</generation_type>
-        <group/>
-        <group_field/>
         <importance/>
         <include_attachments>true</include_attachments>
         <item>event.parm1</item>
         <item_table/>
-        <list/>
-        <list_field/>
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p><img style="align: baseline;" title="" src="integris_logo_white_small.jpgx" alt="" height="" align="baseline" border="" hspace="" vspace="" /></p>
@@ -52,8 +48,9 @@
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>GibsJT</sys_created_by>
         <sys_created_on>2016-05-06 15:27:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>d0c3b31013179240a2723e7f3244b0c9</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Reimbursement center closed complete</sys_name>
@@ -68,8 +65,6 @@
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
-        <user/>
-        <user_field/>
         <weight>0</weight>
     </sysevent_email_action>
 </record_update>

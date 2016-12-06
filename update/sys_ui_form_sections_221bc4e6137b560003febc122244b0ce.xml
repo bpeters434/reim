@@ -6,6 +6,7 @@
             <sys_created_by>ClasJR</sys_created_by>
             <sys_created_on>2016-06-06 18:49:09</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>261bc4e6137b560003febc122244b0ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -19,6 +20,7 @@
             <sys_created_by>ClasJR</sys_created_by>
             <sys_created_on>2016-06-06 18:49:09</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>661bc4e6137b560003febc122244b0ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -32,6 +34,7 @@
             <sys_created_by>ClasJR</sys_created_by>
             <sys_created_on>2016-06-06 18:53:41</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>852ccce6137b560003febc122244b0a0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -46,8 +49,9 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>ClasJR</sys_created_by>
             <sys_created_on>2016-06-06 18:49:09</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>221bc4e6137b560003febc122244b0ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_inhe_reim_table</sys_name>

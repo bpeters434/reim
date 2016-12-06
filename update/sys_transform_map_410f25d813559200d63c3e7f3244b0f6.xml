@@ -13,7 +13,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>PeteBL</sys_created_by>
         <sys_created_on>2016-01-27 19:42:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>410f25d813559200d63c3e7f3244b0f6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_imp_tmpl_cmn_location</sys_name>
